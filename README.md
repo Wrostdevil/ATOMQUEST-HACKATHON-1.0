@@ -102,7 +102,7 @@ The Dashboard Overview provides employees and administrators with:
 
 ## 📊 Performance Analytics Dashboard
 
-![Performance Dashboard](./frontend/performance.png)
+![Performance Dashboard](performance.png)
 
 The Performance Analytics module provides:
 
