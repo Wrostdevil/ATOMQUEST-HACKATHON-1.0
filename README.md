@@ -84,6 +84,36 @@ PLANETY solves these issues through a centralized enterprise workflow platform.
 
 ---
 
+# 📸 Application Screenshots
+
+## 🔐 Dashboard Overview
+
+![Dashboard Overview](./frontend/dashboard.png)
+
+The Dashboard Overview provides employees and administrators with:
+
+- Goal completion tracking
+- Active goals overview
+- Quarterly compliance monitoring
+- Performance trajectory analytics
+- Interactive enterprise dashboard UI
+
+---
+
+## 📊 Performance Analytics Dashboard
+
+![Performance Dashboard](./frontend/performance.png)
+
+The Performance Analytics module provides:
+
+- Quarterly performance reviews
+- Department-wise analytics
+- KPI visualization
+- Performance trajectory tracking
+- Real-time analytics dashboards
+
+---
+
 # 📊 Workflow
 
 Employee creates goals  
@@ -190,15 +220,18 @@ PLANETY implements:
 planety/
 │
 ├── backend/
-│   ├── server.js
+│   ├── node_modules/
+│   ├── .env
+│   ├── package-lock.json
 │   ├── package.json
-│   └── .env
+│   └── server.js
 │
 ├── frontend/
-│   └── index.html
+│   ├── index.html
+│   ├── dashboard.png
+│   └── performance.png
 │
-├── README.md
-└── architecture-diagram.png
+└── README.md
 ```
 
 ---
