@@ -88,7 +88,7 @@ PLANETY solves these issues through a centralized enterprise workflow platform.
 
 ## 🔐 Dashboard Overview
 
-![Dashboard Overview](./frontend/dashboard.png)
+![Dashboard Overview](dashboard.png)
 
 The Dashboard Overview provides employees and administrators with:
 
